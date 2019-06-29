@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExchangeRatesAssigment</string>
+    <string name="distance">Հեռավորություն</string>
+    <string name="sall">Վաճ.</string>
+    <string name="shop">Առք.</string>
+    <string-array name="currency_arrays">
+        <item>USD</item>
+        <item>RUR</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string-array name="cash_non">
+        <item>CASH</item>
+        <item>NON CASH</item>
+    </string-array>
+</resources>
